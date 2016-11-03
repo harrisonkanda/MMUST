@@ -1,0 +1,9 @@
+C:\Users\LAPTOP\Desktop\High_School_System\High_School_System\bin\Debug\High_School_System.exe.config
+C:\Users\LAPTOP\Desktop\High_School_System\High_School_System\obj\Debug\High_School_System.csprojResolveAssemblyReference.cache
+C:\Users\LAPTOP\Desktop\High_School_System\High_School_System\obj\Debug\High_School_System.FormLogin.resources
+C:\Users\LAPTOP\Desktop\High_School_System\High_School_System\obj\Debug\High_School_System.Properties.Resources.resources
+C:\Users\LAPTOP\Desktop\High_School_System\High_School_System\obj\Debug\High_School_System.csproj.GenerateResource.Cache
+C:\Users\LAPTOP\Desktop\High_School_System\High_School_System\bin\Debug\High_School_System.exe
+C:\Users\LAPTOP\Desktop\High_School_System\High_School_System\bin\Debug\High_School_System.pdb
+C:\Users\LAPTOP\Desktop\High_School_System\High_School_System\obj\Debug\High_School_System.exe
+C:\Users\LAPTOP\Desktop\High_School_System\High_School_System\obj\Debug\High_School_System.pdb
